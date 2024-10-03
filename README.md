@@ -1,4 +1,4 @@
-# Movie Recommender System Using Machine Learning!
+# Movie Recommender System Using Machine Learning
 
 #### Overview
 Develop a movie recommendation system that combines user personalization with key movie features like genre, keywords, and more. This project implements a movie recommendation system that combines cosine similarity for content-based filtering.
